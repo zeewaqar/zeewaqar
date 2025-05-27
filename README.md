@@ -18,8 +18,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-plain.svg" /> Prisma ORM</code>  
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> PostgreSQL / SQLite</code>  
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /> Docker & CI/CD</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" /> Stripe Payments</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" /> OpenAI / Groq AI APIs</code>  
+<code><img height="20"
+  src="https://cdn.simpleicons.org/stripe?color=635BFF" />
+  Stripe Payments
+</code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" /> OpenAI / Groq AI APIs</code>  
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS</code>  
 
 ---
