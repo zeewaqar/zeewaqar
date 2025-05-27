@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Zeeshan Waqar
+# 👋 Hi, I’m Hafiz Zee Waqar Irtaza
 
-> 🚀 Passionate Full-Stack Developer & AI enthusiast
+> 🚀 Passionate Full-Stack/Frontend Developer & AI enthusiast
 
 - 🔭 I’m currently building **AI-powered SaaS** with Next.js, Prisma, Stripe & OpenAI  
 - 🌱 I’m learning **TypeScript**, advanced **Next.js 15** patterns, and **tRPC**  
