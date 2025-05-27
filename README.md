@@ -12,17 +12,15 @@
 
 ## 🛠️ My Tech Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> JavaScript/TypeScript</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React & Next.js 15</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /> Node.js & Express</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-plain.svg" /> Prisma ORM</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /> PostgreSQL / SQLite</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /> Docker & CI/CD</code>  
-<code><img height="20"
-  src="https://cdn.simpleicons.org/stripe?color=635BFF" />
-  Stripe Payments
-</code><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" /> OpenAI / Groq AI APIs</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/javascript?color=F7DF1E" /> JavaScript/TypeScript</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/react?color=61DAFB" /> React & Next.js 15</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/node.js?color=339933" /> Node.js & Express</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/prisma?color=2D3748" /> Prisma ORM</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/postgresql?color=336791" /> PostgreSQL / SQLite</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/docker?color=2496ED" /> Docker & CI/CD</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/stripe?color=635BFF" /> Stripe Payments</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/openai?color=000000" /> OpenAI / Groq AI APIs</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/tailwindcss?color=06B6D4" /> Tailwind CSS</code>  
 
 ---
 
