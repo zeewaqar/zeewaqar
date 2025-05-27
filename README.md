@@ -39,11 +39,6 @@ Personal website built with Next.js, showcasing my work, blog, and contact form.
 
 ## 📫 Let’s Connect
 
-[<img align="left" alt="linkedin" width="24px"
-  src="https://cdn.simpleicons.org/linkedin?color=0A66C2" />][linkedin]  
-[<img align="left" alt="mail" width="24px"
-  src="https://cdn.simpleicons.org/mail?color=EA4335" />][email]  
-
 <br clear="left"/>
 
 [linkedin]: https://www.linkedin.com/in/zeewaqar-irtaza/  
