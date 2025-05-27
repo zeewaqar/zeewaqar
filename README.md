@@ -37,10 +37,13 @@ Personal website built with Next.js, showcasing my work, blog, and contact form.
 
 ---
 
+---
+
 ## 📫 Let’s Connect
 
-[<img align="left" alt="LinkedIn" width="24" src="https://cdn.simpleicons.org/linkedin?color=0A66C2" />](https://www.linkedin.com/in/zeewaqar-irtaza/)  
-[<img align="left" alt="Email"    width="24" src="https://cdn.simpleicons.org/mail?color=EA4335"    />](mailto:zewaqar2015@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeewaqar-irtaza/)  
+[![Email](https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white)](mailto:zewaqar2015@gmail.com)
 
-<br clear="left"/>
+<br/>
+
 
