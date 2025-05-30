@@ -26,6 +26,11 @@
 
 ## 🌟 Featured Projects
 
+
+### [AI Stock Prediction App](https://github.com/zeewaqar/stock-prediction-app)  
+An AI-powered stock forecasting app built with Next.js, shadcn/ui, Prisma, and the Groq API (Mistral model). Predicts the next 7 days of stock prices and tracks historical accuracy with real-time dashboards and charts.
+
+
 ### [AI Marketing Hook Generator](https://github.com/zeewaqar/ai-marketing-hook-generator)  
 A Next.js 15 SaaS app that streams AI-generated SEO & social-media copy, persists chat history, enforces quotas, and offers Stripe-powered PRO upgrades.
 
