@@ -38,7 +38,7 @@ A Next.js 15 SaaS app that streams AI-generated SEO & social-media copy, persist
 ### [Todo-AI](https://github.com/zeewaqar/ai-todo)  
 A full-stack Next.js + Prisma + AI app for generating and managing TODOs via natural-language prompts.
 
-### [My Portfolio](https://github.com/zeewaqar/portfolio)  
+### [My Portfolio](https://zeewaqar.com)  
 Personal website built with Next.js, showcasing my work, blog, and contact form.
 
 ---
