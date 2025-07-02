@@ -5,7 +5,6 @@
 - 🔭 I’m currently building **AI-powered SaaS** with Next.js, Prisma, Stripe & OpenAI  
 - 🌱 I’m mastered **TypeScript**, advanced **Next.js 15** patterns, and **tRPC**  
 - 💬 Ask me about **AI integration**, **streaming APIs**, or **SaaS architectures**  
-- 📫 How to reach me: [LinkedIn][linkedin] · [Email][email]  
 - ⚡ Fun fact: I love automating workflows and writing technical blog posts
 
 ---
