@@ -3,7 +3,7 @@
 > 🚀 Passionate Full-Stack/Frontend Developer & AI enthusiast
 
 - 🔭 I’m currently building **AI-powered SaaS** with Next.js, Prisma, Stripe & OpenAI  
-- 🌱 I’m learning **TypeScript**, advanced **Next.js 15** patterns, and **tRPC**  
+- 🌱 I’m mastered **TypeScript**, advanced **Next.js 15** patterns, and **tRPC**  
 - 💬 Ask me about **AI integration**, **streaming APIs**, or **SaaS architectures**  
 - 📫 How to reach me: [LinkedIn][linkedin] · [Email][email]  
 - ⚡ Fun fact: I love automating workflows and writing technical blog posts
@@ -16,11 +16,12 @@
 <code><img height="20" src="https://cdn.simpleicons.org/react?color=61DAFB" /> React & Next.js 15</code>  
 <code><img height="20" src="https://cdn.simpleicons.org/node.js?color=339933" /> Node.js & Express</code>  
 <code><img height="20" src="https://cdn.simpleicons.org/prisma?color=2D3748" /> Prisma ORM</code>  
-<code><img height="20" src="https://cdn.simpleicons.org/postgresql?color=336791" /> PostgreSQL / SQLite</code>  
+<code><img height="20" src="https://cdn.simpleicons.org/postgresql?color=336791" /> PostgreSQL / SQLite/MySQL</code>  
 <code><img height="20" src="https://cdn.simpleicons.org/docker?color=2496ED" /> Docker & CI/CD</code>  
 <code><img height="20" src="https://cdn.simpleicons.org/stripe?color=635BFF" /> Stripe Payments</code>  
 <code><img height="20" src="https://cdn.simpleicons.org/openai?color=000000" /> OpenAI / Groq AI APIs</code>  
 <code><img height="20" src="https://cdn.simpleicons.org/tailwindcss?color=06B6D4" /> Tailwind CSS</code>  
+
 
 ---
 
