@@ -25,6 +25,27 @@
 ---
 
 ## 🌟 Featured Projects
+## 🚀 AI E-Billing SaaS
+
+An **AI-powered e-billing SaaS application** designed to streamline invoice processing.  
+
+### 🔑 Key Features
+
+- 🔐 **User Authentication**
+- 🧾 **Invoice Management** (full CRUD operations)
+- 🤖 **AI-powered OCR** to extract structured data from PDFs
+- 📄 **PDF Generation** for processed invoices
+
+### 🛠 Tech Stack
+
+- **Frontend:** Next.js
+- **Backend:** Node.js / API Routes
+- **Database:** Prisma + PostgreSQL
+- **AI/OCR:** OpenAI / Custom OCR logic
+
+This application combines a modern frontend, a robust backend, and a scalable database architecture to simplify and automate billing workflows.
+
+🔗 [View the repository](https://github.com/zeewaqar/ai-ebilling-saas)
 
 
 ### [AI Stock Prediction App](https://github.com/zeewaqar/stock-prediction-app)  
