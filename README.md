@@ -26,6 +26,8 @@
 
 ## 🌟 Featured Projects
 
+### [AI Stock Prediction App](https://github.com/zeewaqar/stock-prediction-app)  
+An AI-powered stock forecasting app built with Next.js, shadcn/ui, Prisma, and the Groq API (Mistral model). Predicts the next 7 days of stock prices and tracks historical accuracy with real-time dashboards and charts.
 
 ### [AI Stock Prediction App](https://github.com/zeewaqar/stock-prediction-app)  
 An AI-powered stock forecasting app built with Next.js, shadcn/ui, Prisma, and the Groq API (Mistral model). Predicts the next 7 days of stock prices and tracks historical accuracy with real-time dashboards and charts.
